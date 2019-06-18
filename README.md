@@ -12,6 +12,7 @@
 ###### (This command is used in particular by beginners in order not to harm the environment and double-check the correctness of the code.)
 ![alt-текст]()
 ##### We make our changes, which will be uploaded to the AWS.
+```terraform apply ```
 ![alt-текст]()
 ##### As we can see, everything went well.
 ##### Now let's check out VPCs
