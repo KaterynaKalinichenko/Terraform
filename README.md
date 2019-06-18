@@ -17,7 +17,7 @@
 ##### As we can see, everything went well.
 ##### Now let's check out VPCs.
 ![alt-текст](https://github.com/KaterynaKalinichenko/Terraform/blob/master/images/vpc.PNG)
-##### Here it is! We just created a VPC using Infrastructure As a Code!
+#### Here it is! We just created a VPC using Infrastructure As a Code!
 
 
 
