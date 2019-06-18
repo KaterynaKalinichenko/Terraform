@@ -11,7 +11,8 @@
 ###### (This command is used in particular by beginners in order not to harm the environment and double-check the correctness of the code.)
 ![alt-текст](https://github.com/KaterynaKalinichenko/Terraform/blob/master/images/vpc%20plan%20.PNG)
 ##### We make our changes, which will be uploaded to the AWS.
-```terraform apply ```  
+```terraform apply ```   
+
 ![alt-текст](https://github.com/KaterynaKalinichenko/Terraform/blob/master/images/vpc%20apply.PNG)
 ##### As we can see, everything went well.
 ##### Now let's check out VPCs.
